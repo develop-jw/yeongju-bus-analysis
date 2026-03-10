@@ -41,7 +41,8 @@
 
 ## 결과물
 
-> 지도 이미지 추가 예정
+<img width="710" height="642" alt="image" src="https://github.com/user-attachments/assets/3709e6ab-de46-406f-a626-195874813f4d" />
+
 
 leaflet 패키지를 통해 2D 지도 위에 각 정류장을 시각화하였고,
 관광 거점과 버스 노선의 위치 관계를 직관적으로 확인할 수 있는
