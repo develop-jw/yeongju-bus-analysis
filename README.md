@@ -71,12 +71,23 @@ yeongju-bus-analysis/
 
 ---
 
-## 실행 방법
+## 수행 절차
 
-1. MySQL에 `yeongju_bus.csv` 및 노선별 xlsx 데이터 적재
-2. `r/visualization.R` 실행
-3. RStudio Viewer에서 지도 확인
+R의 leaflet 패키지를 활용하여 버스 정류장 위치와 노선 경로를 지도 위에 시각화
 
+분석 흐름은 다음과 같습니다.
+
+공공데이터 수집
+      ↓
+MySQL 데이터베이스 저장
+      ↓
+SQL JOIN을 통한 데이터 결합
+      ↓
+R에서 데이터 조회
+      ↓
+leaflet 지도 시각화
+
+지도 위에서 정류장 위치와 노선 경로를 동시에 확인할 수 있도록 구현
 ---
 
 ## 데이터 출처
