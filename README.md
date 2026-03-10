@@ -81,4 +81,4 @@ yeongju-bus-analysis/
 
 ## 데이터 출처
 
-- [공공데이터포털 - 경상북도 영주시 버스정류장 현황](https://www.data.go.kr)
+- [공공데이터포털 - 경상북도 영주시 버스정류장 현황]([https://www.data.go.kr](https://www.data.go.kr/data/15063311/fileData.do))
