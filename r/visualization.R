@@ -162,7 +162,7 @@ get_directions <- function(origin, destination, api_key) {
 
 
 # Google API 키 설정
-api_key <- 'AIzaSyBVsv8fiam8oMfQ_b0F4iSS-D74IvWoQwY'
+api_key <- 'YOUR_GOOGLE_API_KEY'
 
 for (i in 1:(nrow(yeongju_num2) - 1)){
 # 출발지와 목적지 지정
